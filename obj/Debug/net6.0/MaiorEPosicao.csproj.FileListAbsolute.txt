@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\refint\MaiorEPosicao.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorEPosicao\obj\Debug\net6.0\ref\MaiorEPosicao.dll
